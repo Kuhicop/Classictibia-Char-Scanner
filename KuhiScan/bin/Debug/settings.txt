@@ -1,0 +1,19 @@
+#####################
+# KUHISCAN SETTINGS #
+#####################
+
+
+# ENEMY LIST FILE #
+enemylist.txt
+
+# HUNTED LIST FILE #
+huntedlist.txt
+
+# FRIEND LIST FILE #
+friendlist.txt
+
+# SUSPECT LIST FILE #
+suspectlist.txt
+
+# STAFF LIST FILE #
+stafflist.txt
